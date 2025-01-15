@@ -1,5 +1,6 @@
 Flask==2.3.2
 numpy==1.26.1
 matplotlib==3.8.0
-pytest==7.4.2  # ou une version compatible
+flake8==6.1.0
+
 
